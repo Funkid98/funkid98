@@ -1,7 +1,7 @@
 <h1 align="center">Hello Visitor, I'm Youssef Brocheni</h1>
 <h3 align="center">AI Learner | Flutter App Developer From Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Youssef Borcheni&label=Profile%20views&color=0e75b6&style=flat" alt="Youssef Borcheni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=funkid98&label=Profile%20views&color=0e75b6&style=flat" alt="funkid98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funkid98" alt="funkid98" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 💬 Ask me about **Flutter and Python**
+- 💬 Ask me about **Flutter|Python|Nodejs**
 
 - 📫 How to reach me **youssefborcheni98@gmail.com**
 
