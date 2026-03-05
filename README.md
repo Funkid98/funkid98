@@ -1,6 +1,6 @@
 # Hi 👋, I'm Youssef Borcheni
 
-### AI Engineer | Mobile Developer
+### AI | Mobile Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funkid98&label=Profile views&color=0e75b6&style=flat" alt="funkid98" /> </p>
 
